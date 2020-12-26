@@ -10,6 +10,11 @@
             "StackName": "amplify-labaws-dev-114035",
             "StackId": "arn:aws:cloudformation:us-east-1:645551569624:stack/amplify-labaws-dev-114035/21b38b80-472c-11eb-a5e8-12c2b22562f7",
             "AmplifyAppId": "d244o3j4q3t1xu"
+        },
+        "categories": {
+            "auth": {
+                "labawsddd71b53": {}
+            }
         }
     }
 }

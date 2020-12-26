@@ -1,1 +1,10 @@
-{}
+{
+	"auth": {
+		"labawsddd71b53": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
